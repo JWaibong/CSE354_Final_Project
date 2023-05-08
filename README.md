@@ -5,6 +5,7 @@
 1. The original source for our code base came from the jupyter notebook for homework assignment 3. It is labelled in this repo as original_source.ipynb
 2. original_source.ipynb was the only file we modified in order to create Notebook_1.ipynb and Notebook_2.ipynb. The functions we modified were tokenize_data() in the class DatasetLoader and the train() and eval() functions in the Trainer class.
 3.
+
     i. Notebook_1.ipynb and Notebook_2.ipynb are responsible for finetuning DistilBert-base-uncased and training the classification layer respectively. Run the cells    from top to bottom and you should be able to train similar models. 
  
     ii. For Notebook_1.ipynb, change the variable c in tokenize_data() to choose how many training instances to train the model on
