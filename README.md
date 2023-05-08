@@ -27,7 +27,7 @@
     * In order to change the prompt to include (or not include) the phrase "Choose the best option", 
     set the variable ```CHOOSE_BEST_OPTION``` to ```True``` or ```False```.  
 
-4. All of our models can be found in ```models.zip```. The dataset we used is https://huggingface.co/datasets/math_qa The models named MC have an additional classification layer trained used for the final multiple choice task.
+4. All of our models can be found in ```models.zip``` at https://drive.google.com/drive/folders/1sH5mqVJv3Wc3aiXOT-OPt3QBrlwuPze5?usp=sharing. The dataset we used is https://huggingface.co/datasets/math_qa The models named MC have an additional classification layer trained used for the final multiple choice task.
 
 5. Since we used automatic evaluation, all of our prompts were created by the script in Notebook_3.ipynb
 
