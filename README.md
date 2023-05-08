@@ -7,7 +7,8 @@
 3.
 
     * Notebook_1.ipynb and Notebook_2.ipynb are responsible for finetuning DistilBert-base-uncased and training 
-    the classification layer respectively. Run the cells from top to bottom and you should be able to train similar models. 
+    the classification layer respectively. Run the cells from top to bottom and you should be able to train 
+    similar models. 
  
     * For Notebook_1.ipynb, change the variable c in tokenize_data() to choose how many training 
     instances to train the model on.
